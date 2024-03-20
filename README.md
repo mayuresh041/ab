@@ -1,4 +1,7 @@
 hello
-# ab
+#  HEAD
 for conflict 1
+hey
+good
+
 
